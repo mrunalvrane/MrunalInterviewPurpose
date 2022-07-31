@@ -37,7 +37,7 @@ Plugin based architecture.
 
 
 
-Project
+Project[this is edited here]
 GroupId-com.telusko
 ArtifactId-Demo
 Package-com.teluscko.demo.web
