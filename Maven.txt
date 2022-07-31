@@ -1,0 +1,51 @@
+Maven is a build tool. Also a dependency managemtn tool.
+But actually Maven is a project management tool.
+
+How do you create a project in Java?
+Common answer is , we will IDE.
+But we dont want project in IDE.
+How will we make a project then?
+
+A Java projet strucutre
+Source code
+Test code
+Project structure(directories, assets, resources)
+Librararies/dependencies
+Configuration
+Task runner-buil, test,run
+Reporting
+ Maven says I am going to manage a project for you.
+I will tell you where your source code lies, how should be the prject strucure and everything that need to develop a project.
+Maven uses Project object model.
+
+Maven is open source and it is a Apache project
+
+
+Maven provides project strucure and manages contents.
+Maven helps manages dependencies.
+Maven has configurable prject object model
+Maven tasks-goals and targets
+
+Characteristicks of Maven
+Convention over configuration
+Consistent
+Configurable
+IDE agnostic
+IDE supported
+Declarative dependency managemtn
+Plugin based architecture.
+
+
+
+Project
+GroupId-com.telusko
+ArtifactId-Demo
+Package-com.teluscko.demo.web
+
+
+
+
+API Gateway
+
+
+
