@@ -18,7 +18,7 @@ Reporting
 I will tell you where your source code lies, how should be the prject strucure and everything that need to develop a project.
 Maven uses Project object model.
 
-Maven is open source and it is a Apache project ---------okay done
+Maven is open source and it is a Apache project ---------okay done. This is Vipin.
 
 
 Maven provides project strucure and manages contents.
